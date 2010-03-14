@@ -1,0 +1,846 @@
+Feb 20 13:41:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 20 13:41:55 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 20 13:41:55 symfony [info] {myUser} User is not authenticated
+Feb 20 13:41:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 20 13:41:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 20 13:41:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 20 13:41:55 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 20 13:41:55 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:41:55 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:41:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 20 13:41:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 20 13:41:55 symfony [info] {sfWebDebugLogger} Configuration 515.64 ms (10)
+Feb 20 13:41:55 symfony [info] {sfWebDebugLogger} Factories 553.60 ms (1)
+Feb 20 13:41:55 symfony [info] {sfWebDebugLogger} Action "default/index" 1.21 ms (1)
+Feb 20 13:41:55 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 109.80 ms (1)
+Feb 20 13:41:55 symfony [info] {sfWebResponse} Send content (49569 o)
+Feb 20 13:45:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 20 13:45:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 20 13:45:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 20 13:45:25 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 20 13:45:25 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 20 13:45:25 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:45:25 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:45:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 20 13:45:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} Configuration 13.09 ms (9)
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} Factories 97.41 ms (1)
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} Action "default/index" 0.71 ms (1)
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 46.13 ms (1)
+Feb 20 13:45:25 symfony [info] {sfWebResponse} Send content (46134 o)
+Feb 20 13:45:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 20 13:45:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 20 13:45:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 20 13:45:25 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 20 13:45:25 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 20 13:45:25 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:45:25 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:45:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 20 13:45:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} Configuration 14.35 ms (9)
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} Factories 91.52 ms (1)
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} Action "default/index" 0.70 ms (1)
+Feb 20 13:45:25 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 26.89 ms (1)
+Feb 20 13:45:25 symfony [info] {sfWebResponse} Send content (46134 o)
+Feb 20 13:47:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 20 13:47:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 20 13:47:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 20 13:47:32 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 20 13:47:32 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 20 13:47:32 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:47:32 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 20 13:47:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 20 13:47:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 20 13:47:32 symfony [info] {sfWebDebugLogger} Configuration 77.32 ms (10)
+Feb 20 13:47:32 symfony [info] {sfWebDebugLogger} Factories 79.24 ms (1)
+Feb 20 13:47:32 symfony [info] {sfWebDebugLogger} Action "default/index" 0.87 ms (1)
+Feb 20 13:47:32 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 42.57 ms (1)
+Feb 20 13:47:32 symfony [info] {sfWebResponse} Send content (46135 o)
+Feb 24 03:11:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 24 03:12:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 24 03:12:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 24 03:12:02 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 24 03:12:02 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 24 03:12:04 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 24 03:12:04 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 24 03:12:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 24 03:12:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 24 03:12:04 symfony [info] {sfWebDebugLogger} Configuration 152.42 ms (9)
+Feb 24 03:12:04 symfony [info] {sfWebDebugLogger} Factories 3902.25 ms (1)
+Feb 24 03:12:04 symfony [info] {sfWebDebugLogger} Action "default/index" 1.09 ms (1)
+Feb 24 03:12:04 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 2329.22 ms (1)
+Feb 24 03:12:05 symfony [info] {sfWebResponse} Send content (45822 o)
+Feb 24 03:13:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 24 03:13:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 24 03:13:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 24 03:13:49 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 24 03:13:49 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 24 03:13:49 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 24 03:13:49 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 24 03:13:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 24 03:13:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 24 03:13:49 symfony [info] {sfWebDebugLogger} Configuration 11.94 ms (9)
+Feb 24 03:13:49 symfony [info] {sfWebDebugLogger} Factories 98.58 ms (1)
+Feb 24 03:13:49 symfony [info] {sfWebDebugLogger} Action "default/index" 0.73 ms (1)
+Feb 24 03:13:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 62.97 ms (1)
+Feb 24 03:13:49 symfony [info] {sfWebResponse} Send content (46117 o)
+Feb 24 20:51:39 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 24 20:51:39 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 24 20:51:39 symfony [info] {myUser} User is not authenticated
+Feb 24 20:51:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 24 20:51:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 24 20:51:39 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 24 20:51:39 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 24 20:51:39 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 24 20:51:39 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 24 20:51:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 24 20:51:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 24 20:51:39 symfony [info] {sfWebDebugLogger} Configuration 13.01 ms (9)
+Feb 24 20:51:39 symfony [info] {sfWebDebugLogger} Factories 209.67 ms (1)
+Feb 24 20:51:39 symfony [info] {sfWebDebugLogger} Action "default/index" 0.79 ms (1)
+Feb 24 20:51:39 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 98.46 ms (1)
+Feb 24 20:51:40 symfony [info] {sfWebResponse} Send content (49549 o)
+Feb 26 21:10:58 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 26 21:10:58 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 26 21:10:58 symfony [info] {myUser} User is not authenticated
+Feb 26 21:11:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 21:11:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 21:11:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 26 21:11:01 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 26 21:11:01 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 26 21:11:01 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 26 21:11:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 21:11:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 21:11:02 symfony [info] {sfWebDebugLogger} Configuration 121.17 ms (9)
+Feb 26 21:11:02 symfony [info] {sfWebDebugLogger} Factories 2869.89 ms (1)
+Feb 26 21:11:02 symfony [info] {sfWebDebugLogger} Action "default/index" 0.75 ms (1)
+Feb 26 21:11:02 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 1147.03 ms (1)
+Feb 26 21:11:02 symfony [info] {sfWebResponse} Send content (49521 o)
+Feb 27 01:27:24 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 27 01:27:24 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 27 01:27:24 symfony [info] {myUser} User is not authenticated
+Feb 27 01:27:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 27 01:27:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 27 01:27:24 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 27 01:27:24 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 27 01:27:24 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 27 01:27:24 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 27 01:27:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 27 01:27:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 27 01:27:24 symfony [info] {sfWebDebugLogger} Configuration 27.17 ms (9)
+Feb 27 01:27:24 symfony [info] {sfWebDebugLogger} Factories 270.87 ms (1)
+Feb 27 01:27:24 symfony [info] {sfWebDebugLogger} Action "default/index" 0.75 ms (1)
+Feb 27 01:27:24 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 109.84 ms (1)
+Feb 27 01:27:24 symfony [info] {sfWebResponse} Send content (49549 o)
+Feb 27 01:33:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Feb 27 01:33:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 27 01:33:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 27 01:33:31 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Feb 27 01:33:31 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Feb 27 01:33:31 symfony [info] {sfPHPView} Decorate content with "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 27 01:33:31 symfony [info] {sfPHPView} Render "C:\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Feb 27 01:33:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 27 01:33:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 27 01:33:31 symfony [info] {sfWebDebugLogger} Configuration 14.70 ms (9)
+Feb 27 01:33:31 symfony [info] {sfWebDebugLogger} Factories 90.43 ms (1)
+Feb 27 01:33:31 symfony [info] {sfWebDebugLogger} Action "default/index" 1.11 ms (1)
+Feb 27 01:33:31 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 42.43 ms (1)
+Feb 27 01:33:31 symfony [info] {sfWebResponse} Send content (46117 o)
+Mar 01 23:48:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 01 23:48:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:48:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:48:06 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 01 23:50:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 01 23:50:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:50:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:50:36 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 01 23:50:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 01 23:50:38 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:50:38 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:50:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:50:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:50:38 symfony [info] {sfWebDebugLogger} Configuration 174.33 ms (10)
+Mar 01 23:50:38 symfony [info] {sfWebDebugLogger} Factories 98.94 ms (1)
+Mar 01 23:50:38 symfony [info] {sfWebDebugLogger} Action "contacto/index" 937.98 ms (1)
+Mar 01 23:50:38 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 1286.59 ms (1)
+Mar 01 23:50:39 symfony [info] {sfWebResponse} Send content (45850 o)
+Mar 01 23:52:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 01 23:52:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:52:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:52:25 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 01 23:52:25 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 01 23:52:25 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:52:25 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:52:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:52:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:52:25 symfony [info] {sfWebDebugLogger} Configuration 16.51 ms (9)
+Mar 01 23:52:25 symfony [info] {sfWebDebugLogger} Factories 103.37 ms (1)
+Mar 01 23:52:25 symfony [info] {sfWebDebugLogger} Action "contacto/index" 24.36 ms (1)
+Mar 01 23:52:25 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 204.12 ms (1)
+Mar 01 23:52:26 symfony [info] {sfWebResponse} Send content (46310 o)
+Mar 01 23:52:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 01 23:52:34 symfony [info] {sfFrontWebController} Action "contacto/enviar" does not exist
+Mar 01 23:52:34 symfony [err] {sfError404Exception} Action "contacto/enviar" does not exist.
+Mar 01 23:52:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Mar 01 23:52:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:52:34 symfony [info] {sfWebDebugLogger} Configuration 7.29 ms (5)
+Mar 01 23:52:34 symfony [info] {sfWebDebugLogger} Factories 89.50 ms (1)
+Mar 01 23:53:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 01 23:53:44 symfony [info] {sfFrontWebController} Action "contacto/enviar" does not exist
+Mar 01 23:53:44 symfony [err] {sfError404Exception} Action "contacto/enviar" does not exist.
+Mar 01 23:53:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Mar 01 23:53:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:53:44 symfony [info] {sfWebDebugLogger} Configuration 7.22 ms (5)
+Mar 01 23:53:44 symfony [info] {sfWebDebugLogger} Factories 95.18 ms (1)
+Mar 01 23:54:16 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 01 23:54:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:54:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:54:16 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 01 23:54:16 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 01 23:54:16 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:54:16 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:54:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:54:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:54:16 symfony [info] {sfWebDebugLogger} Configuration 22.12 ms (9)
+Mar 01 23:54:16 symfony [info] {sfWebDebugLogger} Factories 32.27 ms (1)
+Mar 01 23:54:16 symfony [info] {sfWebDebugLogger} Action "contacto/index" 23.76 ms (1)
+Mar 01 23:54:16 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 25.54 ms (1)
+Mar 01 23:54:16 symfony [info] {sfWebResponse} Send content (46344 o)
+Mar 01 23:54:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 01 23:54:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 01 23:54:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 01 23:54:25 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 01 23:54:25 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 01 23:54:25 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:54:25 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 01 23:54:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 01 23:54:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 01 23:54:25 symfony [info] {sfWebDebugLogger} Configuration 18.74 ms (9)
+Mar 01 23:54:25 symfony [info] {sfWebDebugLogger} Factories 40.37 ms (1)
+Mar 01 23:54:25 symfony [info] {sfWebDebugLogger} Action "contacto/index" 31.85 ms (1)
+Mar 01 23:54:25 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 68.76 ms (1)
+Mar 01 23:54:25 symfony [info] {sfWebResponse} Send content (46309 o)
+Mar 02 00:01:15 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:01:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:01:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:01:15 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:01:15 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:01:15 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:01:15 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:01:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:01:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:01:15 symfony [info] {sfWebDebugLogger} Configuration 14.23 ms (9)
+Mar 02 00:01:15 symfony [info] {sfWebDebugLogger} Factories 111.70 ms (1)
+Mar 02 00:01:15 symfony [info] {sfWebDebugLogger} Action "contacto/index" 24.17 ms (1)
+Mar 02 00:01:15 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 62.37 ms (1)
+Mar 02 00:01:15 symfony [info] {sfWebResponse} Send content (46313 o)
+Mar 02 00:05:13 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:05:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:05:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:05:13 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:05:13 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:05:14 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:05:14 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:05:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:05:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:05:14 symfony [info] {sfWebDebugLogger} Configuration 15.46 ms (9)
+Mar 02 00:05:14 symfony [info] {sfWebDebugLogger} Factories 92.49 ms (1)
+Mar 02 00:05:14 symfony [info] {sfWebDebugLogger} Action "contacto/index" 23.83 ms (1)
+Mar 02 00:05:14 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 140.96 ms (1)
+Mar 02 00:05:14 symfony [info] {sfWebResponse} Send content (46259 o)
+Mar 02 00:05:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:05:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:05:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:05:37 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:05:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:05:37 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:05:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:05:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:05:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:05:37 symfony [info] {sfWebDebugLogger} Configuration 21.32 ms (9)
+Mar 02 00:05:37 symfony [info] {sfWebDebugLogger} Factories 117.43 ms (1)
+Mar 02 00:05:37 symfony [info] {sfWebDebugLogger} Action "contacto/index" 41.69 ms (1)
+Mar 02 00:05:37 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 96.97 ms (1)
+Mar 02 00:05:37 symfony [info] {sfWebResponse} Send content (46313 o)
+Mar 02 00:12:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:12:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:12:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:12:37 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:12:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:12:37 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:12:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:12:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:12:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:12:37 symfony [info] {sfWebDebugLogger} Configuration 17.47 ms (9)
+Mar 02 00:12:37 symfony [info] {sfWebDebugLogger} Factories 97.00 ms (1)
+Mar 02 00:12:37 symfony [info] {sfWebDebugLogger} Action "contacto/index" 29.50 ms (1)
+Mar 02 00:12:37 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 53.08 ms (1)
+Mar 02 00:12:37 symfony [info] {sfWebResponse} Send content (46312 o)
+Mar 02 00:21:00 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:21:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:21:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:21:00 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:21:22 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:21:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:21:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:21:22 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:21:22 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:21:22 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:21:22 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:21:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:21:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:21:22 symfony [info] {sfWebDebugLogger} Configuration 26.96 ms (9)
+Mar 02 00:21:22 symfony [info] {sfWebDebugLogger} Factories 170.51 ms (1)
+Mar 02 00:21:22 symfony [info] {sfWebDebugLogger} Action "contacto/index" 90.21 ms (1)
+Mar 02 00:21:22 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 85.62 ms (1)
+Mar 02 00:21:22 symfony [info] {sfWebResponse} Send content (46623 o)
+Mar 02 00:21:29 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:21:29 symfony [info] {sfFrontWebController} Action "contacto/enviar" does not exist
+Mar 02 00:21:29 symfony [err] {sfError404Exception} Action "contacto/enviar" does not exist.
+Mar 02 00:21:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Mar 02 00:21:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:21:29 symfony [info] {sfWebDebugLogger} Configuration 8.72 ms (5)
+Mar 02 00:21:29 symfony [info] {sfWebDebugLogger} Factories 97.82 ms (1)
+Mar 02 00:22:58 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:22:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:22:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:22:58 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:22:58 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:22:58 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:22:58 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:22:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:22:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:22:58 symfony [info] {sfWebDebugLogger} Configuration 19.31 ms (9)
+Mar 02 00:22:58 symfony [info] {sfWebDebugLogger} Factories 95.45 ms (1)
+Mar 02 00:22:58 symfony [info] {sfWebDebugLogger} Action "contacto/index" 49.95 ms (1)
+Mar 02 00:22:58 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 69.09 ms (1)
+Mar 02 00:22:59 symfony [info] {sfWebResponse} Send content (46621 o)
+Mar 02 00:24:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:24:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:24:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:24:19 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:24:19 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:24:20 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:24:20 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:24:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:24:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:24:20 symfony [info] {sfWebDebugLogger} Configuration 66.23 ms (9)
+Mar 02 00:24:20 symfony [info] {sfWebDebugLogger} Factories 158.69 ms (1)
+Mar 02 00:24:20 symfony [info] {sfWebDebugLogger} Action "contacto/index" 24.72 ms (1)
+Mar 02 00:24:20 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 68.47 ms (1)
+Mar 02 00:24:20 symfony [info] {sfWebResponse} Send content (46663 o)
+Mar 02 00:24:28 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:24:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:24:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:24:28 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:24:28 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:24:28 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:24:28 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:24:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:24:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:24:28 symfony [info] {sfWebDebugLogger} Configuration 21.09 ms (9)
+Mar 02 00:24:28 symfony [info] {sfWebDebugLogger} Factories 111.54 ms (1)
+Mar 02 00:24:28 symfony [info] {sfWebDebugLogger} Action "contacto/index" 51.38 ms (1)
+Mar 02 00:24:28 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 121.99 ms (1)
+Mar 02 00:24:29 symfony [info] {sfWebResponse} Send content (46623 o)
+Mar 02 00:25:20 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:25:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:25:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:25:20 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:25:20 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:25:20 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:25:20 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:25:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:25:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:25:20 symfony [info] {sfWebDebugLogger} Configuration 16.57 ms (9)
+Mar 02 00:25:20 symfony [info] {sfWebDebugLogger} Factories 97.55 ms (1)
+Mar 02 00:25:20 symfony [info] {sfWebDebugLogger} Action "contacto/index" 23.61 ms (1)
+Mar 02 00:25:20 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 59.47 ms (1)
+Mar 02 00:25:20 symfony [info] {sfWebResponse} Send content (46644 o)
+Mar 02 00:25:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:25:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:25:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:25:56 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:25:56 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:25:56 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:25:56 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:25:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:25:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:25:56 symfony [info] {sfWebDebugLogger} Configuration 18.80 ms (9)
+Mar 02 00:25:56 symfony [info] {sfWebDebugLogger} Factories 28.81 ms (1)
+Mar 02 00:25:56 symfony [info] {sfWebDebugLogger} Action "contacto/index" 9.64 ms (1)
+Mar 02 00:25:56 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 26.71 ms (1)
+Mar 02 00:25:57 symfony [info] {sfWebResponse} Send content (46620 o)
+Mar 02 00:29:13 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:29:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:29:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:29:13 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 02 00:29:13 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre//email//mensaje/"
+Mar 02 00:29:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 02 00:29:13 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre//email//mensaje/"
+Mar 02 00:29:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:29:13 symfony [info] {sfWebDebugLogger} Configuration 14.33 ms (8)
+Mar 02 00:29:13 symfony [info] {sfWebDebugLogger} Factories 99.37 ms (1)
+Mar 02 00:29:13 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 26.42 ms (1)
+Mar 02 00:29:13 symfony [info] {sfWebResponse} Send content (145 o)
+Mar 02 00:29:13 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/email/mensaje/ with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'email',  'mensaje' => '',)
+Mar 02 00:29:13 symfony [info] {sfFrontWebController} Action "contacto/gracias" does not exist
+Mar 02 00:29:13 symfony [err] {sfError404Exception} Action "contacto/gracias" does not exist.
+Mar 02 00:29:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Mar 02 00:29:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:29:13 symfony [info] {sfWebDebugLogger} Configuration 8.16 ms (5)
+Mar 02 00:29:13 symfony [info] {sfWebDebugLogger} Factories 73.78 ms (1)
+Mar 02 00:29:21 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/email/mensaje/ with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'email',  'mensaje' => '',)
+Mar 02 00:29:21 symfony [info] {sfFrontWebController} Action "contacto/gracias" does not exist
+Mar 02 00:29:21 symfony [err] {sfError404Exception} Action "contacto/gracias" does not exist.
+Mar 02 00:29:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Mar 02 00:29:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:29:21 symfony [info] {sfWebDebugLogger} Configuration 8.71 ms (5)
+Mar 02 00:29:21 symfony [info] {sfWebDebugLogger} Factories 93.76 ms (1)
+Mar 02 00:32:30 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:32:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:32:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:32:30 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 02 00:32:30 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Ejemplo+de+envio+de+mail"
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Ejemplo+de+envio+de+mail"
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} Configuration 13.22 ms (8)
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} Factories 98.55 ms (1)
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 6.89 ms (1)
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send content (196 o)
+Mar 02 00:32:30 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/mensaje/Ejemplo+de+envio+de+mail with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'mensaje' => 'Ejemplo de envio de mail',)
+Mar 02 00:32:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:32:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:32:30 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 02 00:32:30 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 02 00:32:30 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:32:30 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} Configuration 18.12 ms (9)
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} Factories 59.28 ms (1)
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.01 ms (1)
+Mar 02 00:32:30 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 45.72 ms (1)
+Mar 02 00:32:30 symfony [info] {sfWebResponse} Send content (45427 o)
+Mar 02 00:33:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:33:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:33:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:33:26 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 02 00:33:26 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Que+te+parece+13"
+Mar 02 00:33:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 02 00:33:26 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Que+te+parece+13"
+Mar 02 00:33:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:33:26 symfony [info] {sfWebDebugLogger} Configuration 12.27 ms (8)
+Mar 02 00:33:26 symfony [info] {sfWebDebugLogger} Factories 88.17 ms (1)
+Mar 02 00:33:26 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 8.76 ms (1)
+Mar 02 00:33:26 symfony [info] {sfWebResponse} Send content (188 o)
+Mar 02 00:33:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'mensaje' => 'Que te parece 13',)
+Mar 02 00:33:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:33:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:33:26 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 02 00:33:26 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 02 00:33:26 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:33:27 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:33:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:33:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:33:27 symfony [info] {sfWebDebugLogger} Configuration 18.45 ms (9)
+Mar 02 00:33:27 symfony [info] {sfWebDebugLogger} Factories 48.50 ms (1)
+Mar 02 00:33:27 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 0.87 ms (1)
+Mar 02 00:33:27 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 40.51 ms (1)
+Mar 02 00:33:27 symfony [info] {sfWebResponse} Send content (45363 o)
+Mar 02 00:34:01 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:34:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:34:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:34:01 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 02 00:34:01 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Que+te+parece+13"
+Mar 02 00:34:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 02 00:34:01 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Que+te+parece+13"
+Mar 02 00:34:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:34:01 symfony [info] {sfWebDebugLogger} Configuration 13.82 ms (8)
+Mar 02 00:34:01 symfony [info] {sfWebDebugLogger} Factories 74.32 ms (1)
+Mar 02 00:34:01 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 7.21 ms (1)
+Mar 02 00:34:02 symfony [info] {sfWebResponse} Send content (188 o)
+Mar 02 00:34:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'mensaje' => 'Que te parece 13',)
+Mar 02 00:34:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:34:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:34:02 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 02 00:34:02 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 02 00:34:02 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:34:02 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:34:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:34:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:34:02 symfony [info] {sfWebDebugLogger} Configuration 14.70 ms (9)
+Mar 02 00:34:02 symfony [info] {sfWebDebugLogger} Factories 38.55 ms (1)
+Mar 02 00:34:02 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.79 ms (1)
+Mar 02 00:34:02 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 45.95 ms (1)
+Mar 02 00:34:02 symfony [info] {sfWebResponse} Send content (45384 o)
+Mar 02 00:34:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'mensaje' => 'Que te parece 13',)
+Mar 02 00:34:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:34:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:34:28 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 02 00:34:28 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 02 00:34:28 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:34:28 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:34:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:34:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:34:28 symfony [info] {sfWebDebugLogger} Configuration 17.18 ms (9)
+Mar 02 00:34:28 symfony [info] {sfWebDebugLogger} Factories 34.45 ms (1)
+Mar 02 00:34:28 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.08 ms (1)
+Mar 02 00:34:28 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 24.15 ms (1)
+Mar 02 00:34:28 symfony [info] {sfWebResponse} Send content (45416 o)
+Mar 02 00:34:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:34:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:34:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:34:32 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 02 00:34:32 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Que+te+parece+13"
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/mensaje/Que+te+parece+13"
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} Configuration 15.65 ms (8)
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} Factories 44.62 ms (1)
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 5.97 ms (1)
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send content (188 o)
+Mar 02 00:34:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'mensaje' => 'Que te parece 13',)
+Mar 02 00:34:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:34:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:34:32 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 02 00:34:32 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 02 00:34:32 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:34:32 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} Configuration 16.40 ms (9)
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} Factories 62.02 ms (1)
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.34 ms (1)
+Mar 02 00:34:32 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 20.76 ms (1)
+Mar 02 00:34:32 symfony [info] {sfWebResponse} Send content (45384 o)
+Mar 02 00:37:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 02 00:37:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:37:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:37:03 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 02 00:37:03 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 02 00:37:03 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:37:03 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:37:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:37:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:37:03 symfony [info] {sfWebDebugLogger} Configuration 14.81 ms (9)
+Mar 02 00:37:03 symfony [info] {sfWebDebugLogger} Factories 97.02 ms (1)
+Mar 02 00:37:03 symfony [info] {sfWebDebugLogger} Action "contacto/index" 28.18 ms (1)
+Mar 02 00:37:03 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 60.34 ms (1)
+Mar 02 00:37:03 symfony [info] {sfWebResponse} Send content (46621 o)
+Mar 02 00:37:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 02 00:37:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:37:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:37:05 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 02 00:37:05 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13"
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13"
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} Configuration 13.54 ms (8)
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} Factories 79.06 ms (1)
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 7.35 ms (1)
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send content (205 o)
+Mar 02 00:37:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'adjuntar' => 'emy.jpg',  'mensaje' => 'Que te parece 13',)
+Mar 02 00:37:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 02 00:37:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 02 00:37:05 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 02 00:37:05 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 02 00:37:05 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:37:05 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} Configuration 15.80 ms (9)
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} Factories 59.75 ms (1)
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.21 ms (1)
+Mar 02 00:37:05 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 25.34 ms (1)
+Mar 02 00:37:05 symfony [info] {sfWebResponse} Send content (45544 o)
+Mar 03 04:31:17 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 03 04:31:17 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 03 04:31:17 symfony [info] {myUser} User is not authenticated
+Mar 03 04:31:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 04:31:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 04:31:18 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 03 04:31:18 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13"
+Mar 03 04:31:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 03 04:31:18 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13"
+Mar 03 04:31:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 04:31:18 symfony [info] {sfWebDebugLogger} Configuration 111.63 ms (8)
+Mar 03 04:31:18 symfony [info] {sfWebDebugLogger} Factories 1681.89 ms (1)
+Mar 03 04:31:18 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 110.99 ms (1)
+Mar 03 04:31:18 symfony [info] {sfWebResponse} Send content (205 o)
+Mar 03 04:31:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'adjuntar' => 'emy.jpg',  'mensaje' => 'Que te parece 13',)
+Mar 03 04:31:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 04:31:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 04:31:20 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 03 04:31:20 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 03 04:31:21 symfony [warning] {sfWebDebugLogger}  Warning at C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules\contacto\templates\graciasSuccess.php on line 7 (mail() [<a href='function.mail'>function.mail</a>]: &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing)
+Mar 03 04:31:22 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 04:31:22 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 04:31:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 04:31:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 04:31:22 symfony [info] {sfWebDebugLogger} Configuration 930.63 ms (11)
+Mar 03 04:31:22 symfony [info] {sfWebDebugLogger} Factories 296.69 ms (1)
+Mar 03 04:31:22 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.04 ms (1)
+Mar 03 04:31:22 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 1570.36 ms (1)
+Mar 03 04:31:22 symfony [info] {sfWebResponse} Send content (45851 o)
+Mar 03 05:45:58 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 03 05:45:58 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 03 05:45:58 symfony [info] {myUser} User is not authenticated
+Mar 03 05:45:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:45:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:45:59 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 03 05:46:00 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 03 05:46:01 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:46:01 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:46:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:46:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:46:01 symfony [info] {sfWebDebugLogger} Configuration 47.00 ms (9)
+Mar 03 05:46:01 symfony [info] {sfWebDebugLogger} Factories 1693.84 ms (1)
+Mar 03 05:46:01 symfony [info] {sfWebDebugLogger} Action "contacto/index" 550.84 ms (1)
+Mar 03 05:46:01 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 1707.32 ms (1)
+Mar 03 05:46:02 symfony [info] {sfWebResponse} Send content (50057 o)
+Mar 03 05:46:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 03 05:46:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:46:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:46:07 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 03 05:46:07 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13"
+Mar 03 05:46:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 03 05:46:07 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+/email/edgarjaen%40gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13"
+Mar 03 05:46:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:46:07 symfony [info] {sfWebDebugLogger} Configuration 12.85 ms (8)
+Mar 03 05:46:07 symfony [info] {sfWebDebugLogger} Factories 103.40 ms (1)
+Mar 03 05:46:07 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 28.03 ms (1)
+Mar 03 05:46:07 symfony [info] {sfWebResponse} Send content (205 o)
+Mar 03 05:46:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'adjuntar' => 'emy.jpg',  'mensaje' => 'Que te parece 13',)
+Mar 03 05:46:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:46:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:46:08 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 03 05:46:08 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 03 05:46:08 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:46:08 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:46:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:46:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:46:08 symfony [info] {sfWebDebugLogger} Configuration 14.06 ms (9)
+Mar 03 05:46:08 symfony [info] {sfWebDebugLogger} Factories 60.33 ms (1)
+Mar 03 05:46:08 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.09 ms (1)
+Mar 03 05:46:08 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 19.42 ms (1)
+Mar 03 05:46:08 symfony [info] {sfWebResponse} Send content (45546 o)
+Mar 03 05:50:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+/email/edgarjaen@gmail.com/adjuntar/emy.jpg/mensaje/Que+te+parece+13 with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar ',  'email' => 'edgarjaen@gmail.com',  'adjuntar' => 'emy.jpg',  'mensaje' => 'Que te parece 13',)
+Mar 03 05:50:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:50:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:50:31 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 03 05:50:31 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 03 05:50:31 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:50:31 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:50:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:50:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:50:31 symfony [info] {sfWebDebugLogger} Configuration 16.71 ms (9)
+Mar 03 05:50:31 symfony [info] {sfWebDebugLogger} Factories 113.83 ms (1)
+Mar 03 05:50:31 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 0.91 ms (1)
+Mar 03 05:50:31 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 79.78 ms (1)
+Mar 03 05:50:31 symfony [info] {sfWebResponse} Send content (45626 o)
+Mar 03 05:50:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 03 05:50:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:50:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:50:34 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 03 05:50:34 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 03 05:50:34 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:50:34 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:50:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:50:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:50:34 symfony [info] {sfWebDebugLogger} Configuration 14.62 ms (9)
+Mar 03 05:50:34 symfony [info] {sfWebDebugLogger} Factories 89.86 ms (1)
+Mar 03 05:50:34 symfony [info] {sfWebDebugLogger} Action "contacto/index" 29.57 ms (1)
+Mar 03 05:50:34 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 62.86 ms (1)
+Mar 03 05:50:34 symfony [info] {sfWebResponse} Send content (46752 o)
+Mar 03 05:50:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 03 05:50:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:50:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:50:55 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 03 05:50:55 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 03 05:50:55 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:50:55 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:50:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:50:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:50:55 symfony [info] {sfWebDebugLogger} Configuration 18.92 ms (9)
+Mar 03 05:50:55 symfony [info] {sfWebDebugLogger} Factories 132.21 ms (1)
+Mar 03 05:50:55 symfony [info] {sfWebDebugLogger} Action "contacto/index" 25.42 ms (1)
+Mar 03 05:50:55 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 56.25 ms (1)
+Mar 03 05:50:55 symfony [info] {sfWebResponse} Send content (46785 o)
+Mar 03 05:52:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 03 05:52:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:52:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:52:31 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 03 05:52:31 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+Reyes/email/edgarjaen%40gmail.com/adjuntar/morfeo.jpg/mensaje/Archivo+de+Morfeo"
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre/Edgar+Reyes/email/edgarjaen%40gmail.com/adjuntar/morfeo.jpg/mensaje/Archivo+de+Morfeo"
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} Configuration 13.95 ms (8)
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} Factories 40.83 ms (1)
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 19.58 ms (1)
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send content (214 o)
+Mar 03 05:52:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/Edgar+Reyes/email/edgarjaen@gmail.com/adjuntar/morfeo.jpg/mensaje/Archivo+de+Morfeo with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'Edgar Reyes',  'email' => 'edgarjaen@gmail.com',  'adjuntar' => 'morfeo.jpg',  'mensaje' => 'Archivo de Morfeo',)
+Mar 03 05:52:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:52:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:52:31 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 03 05:52:31 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 03 05:52:31 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:52:31 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} Configuration 14.66 ms (9)
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} Factories 96.85 ms (1)
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.03 ms (1)
+Mar 03 05:52:31 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 29.06 ms (1)
+Mar 03 05:52:31 symfony [info] {sfWebResponse} Send content (45665 o)
+Mar 03 05:52:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 03 05:52:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 03 05:52:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 03 05:52:38 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 03 05:52:38 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 03 05:52:38 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:52:38 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 03 05:52:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 03 05:52:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 03 05:52:38 symfony [info] {sfWebDebugLogger} Configuration 15.78 ms (9)
+Mar 03 05:52:38 symfony [info] {sfWebDebugLogger} Factories 24.49 ms (1)
+Mar 03 05:52:38 symfony [info] {sfWebDebugLogger} Action "contacto/index" 8.12 ms (1)
+Mar 03 05:52:38 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 24.18 ms (1)
+Mar 03 05:52:38 symfony [info] {sfWebResponse} Send content (46760 o)
+Mar 04 00:08:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 04 00:08:27 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 04 00:08:27 symfony [info] {myUser} User is not authenticated
+Mar 04 00:08:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 04 00:08:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 04 00:08:27 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 04 00:08:27 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 04 00:08:27 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 04 00:08:27 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 04 00:08:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 04 00:08:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 04 00:08:27 symfony [info] {sfWebDebugLogger} Configuration 33.19 ms (9)
+Mar 04 00:08:27 symfony [info] {sfWebDebugLogger} Factories 301.36 ms (1)
+Mar 04 00:08:27 symfony [info] {sfWebDebugLogger} Action "contacto/index" 59.76 ms (1)
+Mar 04 00:08:27 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 200.80 ms (1)
+Mar 04 00:08:27 symfony [info] {sfWebResponse} Send content (50226 o)
+Mar 04 01:00:09 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 04 01:00:09 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 04 01:00:09 symfony [info] {myUser} User is not authenticated
+Mar 04 01:00:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 04 01:00:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 04 01:00:10 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 04 01:00:10 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 04 01:00:10 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 04 01:00:10 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 04 01:00:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 04 01:00:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 04 01:00:10 symfony [info] {sfWebDebugLogger} Configuration 84.99 ms (9)
+Mar 04 01:00:10 symfony [info] {sfWebDebugLogger} Factories 423.72 ms (1)
+Mar 04 01:00:10 symfony [info] {sfWebDebugLogger} Action "contacto/index" 65.45 ms (1)
+Mar 04 01:00:10 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 123.28 ms (1)
+Mar 04 01:00:10 symfony [info] {sfWebResponse} Send content (50225 o)
+Mar 06 00:46:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 06 00:46:51 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 06 00:46:51 symfony [info] {myUser} User is not authenticated
+Mar 06 00:46:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 06 00:46:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 06 00:46:52 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 06 00:46:53 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 06 00:46:54 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 06 00:46:54 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 06 00:46:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 06 00:46:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 06 00:46:54 symfony [info] {sfWebDebugLogger} Configuration 111.22 ms (9)
+Mar 06 00:46:54 symfony [info] {sfWebDebugLogger} Factories 2570.57 ms (1)
+Mar 06 00:46:54 symfony [info] {sfWebDebugLogger} Action "contacto/index" 449.36 ms (1)
+Mar 06 00:46:54 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 1551.98 ms (1)
+Mar 06 00:46:55 symfony [info] {sfWebResponse} Send content (50026 o)
+Mar 11 11:15:35 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contacto with parameters array (  'module' => 'contacto',  'action' => 'index',)
+Mar 11 11:15:36 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 11 11:15:36 symfony [info] {myUser} User is not authenticated
+Mar 11 11:15:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 11 11:15:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 11 11:15:36 symfony [info] {contactoActions} Call "contactoActions->executeIndex()"
+Mar 11 11:15:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/indexSuccess.php"
+Mar 11 11:15:37 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 11 11:15:37 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 11 11:15:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 11 11:15:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 11 11:15:37 symfony [info] {sfWebDebugLogger} Configuration 160.58 ms (9)
+Mar 11 11:15:37 symfony [info] {sfWebDebugLogger} Factories 1706.48 ms (1)
+Mar 11 11:15:37 symfony [info] {sfWebDebugLogger} Action "contacto/index" 329.21 ms (1)
+Mar 11 11:15:37 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/index" 859.72 ms (1)
+Mar 11 11:15:38 symfony [info] {sfWebResponse} Send content (50025 o)
+Mar 12 01:23:29 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 12 01:23:30 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 12 01:23:30 symfony [info] {myUser} User is not authenticated
+Mar 12 01:23:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 12 01:23:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 12 01:23:30 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 12 01:23:30 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre//email//adjuntar//mensaje/"
+Mar 12 01:23:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 12 01:23:30 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre//email//adjuntar//mensaje/"
+Mar 12 01:23:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 12 01:23:31 symfony [info] {sfWebDebugLogger} Configuration 111.88 ms (8)
+Mar 12 01:23:31 symfony [info] {sfWebDebugLogger} Factories 1755.60 ms (1)
+Mar 12 01:23:31 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 154.38 ms (1)
+Mar 12 01:23:31 symfony [info] {sfWebResponse} Send content (155 o)
+Mar 12 01:23:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/email/adjuntar/mensaje/ with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'email',  'adjuntar' => 'mensaje',)
+Mar 12 01:23:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 12 01:23:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 12 01:23:35 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 12 01:23:35 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 12 01:23:35 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 12 01:23:35 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 12 01:23:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 12 01:23:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 12 01:23:35 symfony [info] {sfWebDebugLogger} Configuration 38.70 ms (9)
+Mar 12 01:23:35 symfony [info] {sfWebDebugLogger} Factories 491.84 ms (1)
+Mar 12 01:23:35 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 2.28 ms (1)
+Mar 12 01:23:35 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 933.87 ms (1)
+Mar 12 01:23:36 symfony [info] {sfWebResponse} Send content (45108 o)
+Mar 14 15:37:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/enviar with parameters array (  'module' => 'contacto',  'action' => 'enviar',)
+Mar 14 15:37:45 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 14 15:37:45 symfony [info] {myUser} User is not authenticated
+Mar 14 15:37:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 14 15:37:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 14 15:37:46 symfony [info] {contactoActions} Call "contactoActions->executeEnviar()"
+Mar 14 15:37:46 symfony [info] {sfFrontWebController} Redirect to "http://localhost/frontend_dev.php/contacto/gracias/nombre//email//adjuntar/emy.jpg/mensaje/"
+Mar 14 15:37:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Mar 14 15:37:46 symfony [info] {sfWebResponse} Send header "Location: http://localhost/frontend_dev.php/contacto/gracias/nombre//email//adjuntar/emy.jpg/mensaje/"
+Mar 14 15:37:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 14 15:37:46 symfony [info] {sfWebDebugLogger} Configuration 89.07 ms (8)
+Mar 14 15:37:46 symfony [info] {sfWebDebugLogger} Factories 1557.06 ms (1)
+Mar 14 15:37:46 symfony [info] {sfWebDebugLogger} Action "contacto/enviar" 120.20 ms (1)
+Mar 14 15:37:46 symfony [info] {sfWebResponse} Send content (162 o)
+Mar 14 15:37:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/email/adjuntar/emy.jpg/mensaje/ with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'email',  'adjuntar' => 'emy.jpg',  'mensaje' => '',)
+Mar 14 15:37:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 14 15:37:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 14 15:37:51 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 14 15:37:52 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 14 15:37:52 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 14 15:37:52 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 14 15:37:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 14 15:37:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 14 15:37:52 symfony [info] {sfWebDebugLogger} Configuration 22.18 ms (9)
+Mar 14 15:37:52 symfony [info] {sfWebDebugLogger} Factories 235.68 ms (1)
+Mar 14 15:37:52 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.73 ms (1)
+Mar 14 15:37:52 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 591.44 ms (1)
+Mar 14 15:37:52 symfony [info] {sfWebResponse} Send content (45212 o)
+Mar 14 21:37:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /contacto/gracias/nombre/email/adjuntar/emy.jpg/mensaje/ with parameters array (  'module' => 'contacto',  'action' => 'gracias',  'nombre' => 'email',  'adjuntar' => 'emy.jpg',  'mensaje' => '',)
+Mar 14 21:37:56 symfony [info] {myUser} Automatic user logout due to timeout
+Mar 14 21:37:56 symfony [info] {myUser} User is not authenticated
+Mar 14 21:37:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 14 21:37:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 14 21:37:56 symfony [info] {contactoActions} Call "contactoActions->executeGracias()"
+Mar 14 21:37:56 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\modules/contacto/templates/graciasSuccess.php"
+Mar 14 21:37:57 symfony [info] {sfPHPView} Decorate content with "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 14 21:37:57 symfony [info] {sfPHPView} Render "C:\Program Files\Zend\Apache2\htdocs\mdc\apps\frontend\templates/layout.php"
+Mar 14 21:37:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 14 21:37:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 14 21:37:57 symfony [info] {sfWebDebugLogger} Configuration 111.03 ms (9)
+Mar 14 21:37:57 symfony [info] {sfWebDebugLogger} Factories 1564.25 ms (1)
+Mar 14 21:37:57 symfony [info] {sfWebDebugLogger} Action "contacto/gracias" 1.29 ms (1)
+Mar 14 21:37:57 symfony [info] {sfWebDebugLogger} View "Success" for "contacto/gracias" 861.89 ms (1)
+Mar 14 21:37:58 symfony [info] {sfWebResponse} Send content (48644 o)
